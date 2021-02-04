@@ -1,2 +1,2 @@
-# ac-workshop-template
+# workshop-meme-generator
 Created with CodeSandbox

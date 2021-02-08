@@ -1,7 +1,12 @@
 import "./styles.css";
+import Header from "./components/Header/Header";
 
 const App = () => {
-  return <div>Hello world!</div>;
+  return (
+    <div>
+      <Header />
+    </div>
+  );
 };
 
 export default App;

@@ -1,0 +1,19 @@
+.page-title {
+  color: #000000;
+  margin: 0;
+  font-size: 48px;
+}
+
+img {
+  /* width: 80px; */
+  /* commenting in ccs be like */
+  height: 140px;
+}
+
+header {
+  align-items: center;
+  justify-content: space-evenly;
+  display: flex;
+  padding: 20px;
+  background-color: #ffc400;
+}

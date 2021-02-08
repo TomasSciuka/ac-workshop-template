@@ -1,0 +1,16 @@
+.page-title {
+  margin: 0;
+  font-size: 50x;
+  color: rgb(226, 238, 61);
+}
+header {
+  display: flex;
+  background-color: rgb(39, 147, 151);
+  align-items: bottom;
+  justify-content: space-around;
+  padding: 20px;
+}
+img {
+  width: 100px;
+  height: 111px;
+}
